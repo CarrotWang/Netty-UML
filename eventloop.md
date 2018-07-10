@@ -1,5 +1,5 @@
 #aa
-```plantuml
+```sequence
 skinparam backgroundColor white
 skinparam note {
   FontColor grey
